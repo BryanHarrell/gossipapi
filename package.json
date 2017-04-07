@@ -1,11 +1,9 @@
 {
   "name": "gossipapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gossip API",
   "main": "hello-http.js",
-  "scripts": {
-    "start":"node hello-http.js"
-  },
+}
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BryanHarrell/gossipapi.git"
