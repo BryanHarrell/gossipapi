@@ -2,7 +2,7 @@
   "name": "gossipapi",
   "version": "1.0.0",
   "description": "Gossip API",
-  "main": "hello-http.js",
+  "main": "hello-http.js"
 }
   "repository": {
     "type": "git",
