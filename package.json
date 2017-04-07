@@ -1,0 +1,25 @@
+{
+  "name": "gossipapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanHarrell/gossipapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanHarrell/gossipapi/issues"
+  },
+  "homepage": "https://github.com/BryanHarrell/gossipapi#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+  "engines": {
+    "node": "6.10.2"
+  },
+}
