@@ -4,7 +4,7 @@
   "description": "",
   "main": "hello-http.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node hello-http.js"
   },
   "repository": {
     "type": "git",
@@ -18,8 +18,8 @@
   "homepage": "https://github.com/BryanHarrell/gossipapi#readme",
   "dependencies": {
     "express": "^4.15.2"
-  }
+  },
   "engines": {
     "node": "6.10.2"
-  },
+  }
 }
